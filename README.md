@@ -13,7 +13,7 @@ This project converts a Raspberry Pi Zero (v1.3) computer into a computer dongle
 
 |Description|Version|Author|Last Update|
 |:---|:---|:---|:---|
-|blackhole|v1.0.1|OutsourcedGuru|August 1, 2018|
+|blackhole|v1.0.2|OutsourcedGuru|June 10, 2019|
 
 |Donate||Cryptocurrency|
 |:-----:|---|:--------:|
